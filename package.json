@@ -1,0 +1,30 @@
+{
+  "name": "redislab",
+  "version": "1.0.0",
+  "description": "Redis App",
+  "main": "redisTest.js",
+  "scripts": {
+    "start": "node RedisDB.js"
+  },
+  "keywords": [
+    "Redis Cloud",
+    "Redis client",
+    "Redis server",
+    "App",
+    "Test"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandercharlie/redislab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandercharlie/redislab/issues"
+  },
+  "homepage": "https://github.com/alexandercharlie/redislab#readme"
+}
